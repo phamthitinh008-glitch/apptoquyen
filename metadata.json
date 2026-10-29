@@ -1,0 +1,6 @@
+{
+  "name": "Physics Mentor AI",
+  "description": "Gia sư Vật lí thông minh dành cho học sinh THPT (Lớp 10 & 11) - Hiểu đúng bản chất, tự tin giải bài, tiến bộ mỗi ngày.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
